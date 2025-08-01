@@ -1,2 +1,2 @@
-# NES Emulator written by Rust
+# NES Emulator in Rust
 
